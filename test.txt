@@ -1,0 +1,4 @@
+My name is Shashipal Chouhan, and I belong to Indore, Madhya Pradesh.
+I did Bachelor of Engineering in Computer Science from IPS Academy, a Post Graduate Diploma in Advanced Computing, and an MBA in Business Analytics from the School of Data Science & Forecasting, DAVV Indore.
+I have around 1.5 years of professional experience in the AI/ML domain as a Software Engineer at Compunnel Digital, Noida. During this time, I worked on end-to-end machine learning systems, focusing not only on model development but also on deploying, scaling, and monitoring models in cloud-based production environments.
+For the past 1.5 years, I was working with a freelancer, where I build data-driven Power BI dashboards that deliver actionable insights to clients and provide measurable business value.
